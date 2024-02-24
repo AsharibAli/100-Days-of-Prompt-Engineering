@@ -1,4 +1,4 @@
-# Improve 1% everyday prompt guides
+# Improve 1% everyday, Prompt Engineering (PE). 
 
 *Day#01* — *Prompt Structure Fundamentals*  
 Study the anatomy of a good prompt. Deconstruct 5 examples from your favorite books, movies, or games to understand their core components. What makes them engaging? 
@@ -239,8 +239,6 @@ Craft prompts from film scenes. "Imagine the prequel to your favorite movie scen
 
 *Day#80* — *Urban Legends & Folktales*  
 Explore local myths. "Write a modern version of a folktale from your culture."
-
-The journey from Day#61 to Day#80 integrates a broad spectrum of themes, diving into personal experiences, global topics, and everything in between. It provides learners with a platform to explore, introspect, and engage with various contexts.
 
 *Day#81* — *Emotional Exploration*  
 Tune into feelings. "Write about a time when you felt completely content."
