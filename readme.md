@@ -1,4 +1,4 @@
-# Improve 1% everyday, Prompt Engineering (PE). 
+# Improve 1% everyday, Prompt Engineering (PE).
 
 *Day#01* — *Prompt Structure Fundamentals*  
 Study the anatomy of a good prompt. Deconstruct 5 examples from your favorite books, movies, or games to understand their core components. What makes them engaging? 
